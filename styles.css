@@ -1,0 +1,47 @@
+.mainContent {
+    height: 400px;
+    width: 600px;
+    margin: auto;
+    padding: 15px;
+    overflow: hidden;
+    font-size: 16px;
+    font-family: 'Handlee', cursive;
+    background-color: white;
+}
+
+.header {
+    overflow: hidden;
+}
+
+.header img {
+    max-width: 40px;
+    float: right;
+    width: 50%;
+}
+
+.left {
+    float: left;
+    width: 50%;
+}
+
+.right {
+    float: right;
+    width: 50%;
+}
+
+.body {
+    overflow: hidden;
+}
+
+.footer button{
+    border: none;
+    border-bottom: 1px gray;
+    background-color: rgb(220,220,220);
+}
+.footer {
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}
